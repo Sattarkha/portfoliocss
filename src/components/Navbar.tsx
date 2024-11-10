@@ -13,7 +13,7 @@ const Navbar = () => {
                <li className='menuLink'><a href='#skills'>Skills</a></li>
                <li className='menuLink'><a href='#contact'>Contact</a></li>
             </ul>
-            <AiOutlineMenu className='md:hidden'size={30} />
+            <AiOutlineMenu size={30} />
 
         </div>
 
